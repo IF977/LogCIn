@@ -15,7 +15,7 @@ O software deve fornecer uma interface simples e intuitiva que permita o usuári
 
 O controle de estoque é feito atualmente por meio de planilha tornando ineficiente a constatção das necessidades do setor.
 	
-Equipe:
+# Equipe:
 
 Djailson Bezerra: Product Owner
 
