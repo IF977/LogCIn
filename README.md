@@ -1,3 +1,7 @@
+###Universidade Federal de Pernambuco - Centro de Informática
+
+###IF977 - Engenharia de Software
+
 # Projeto:LogCIn
 	
 Esse projeto tem o intuito criar uma aplicação de controle de materias de consumo, equipamentos e ferramentas.
