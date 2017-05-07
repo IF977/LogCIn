@@ -1,0 +1,15 @@
+Como um usuário do sistema,
+Para que eu possa acessar o sistema com segurança,
+Eu quero uma tela de login com senha.
+ 
+Como um não usuário
+Para que eu tenha o primeiro acesso,
+Eu quero um sistema de cadastro do usuário.
+ 
+Como um usuário do sistema,
+Para que eu possa verificar se um material está disponível,
+Eu quero um recurso que realiza uma busca com palavras-chaves.
+ 
+Como um usuário do sistema,
+Para que  eu movimente meu estoque de maneira precisa,
+Eu quero um sistemas que me forneça entrada e saída de materiais.
