@@ -1,0 +1,11 @@
+Como um usuário do sistema,
+Para que eu possa acessar o sistema com segurança,
+Eu quero uma tela de permissão com senha.
+ 
+Como um usuário do sistema,
+Para que eu possa cadastrar meus produtos,
+Eu quero um recurso que permita cadastrar produtos ao estoque.
+ 
+Como um usuário do sistema,
+Para que  eu movimente meu estoque de maneira segura e precisa,
+Eu quero um sistema que me forneça a entrada e saída de materiais.
