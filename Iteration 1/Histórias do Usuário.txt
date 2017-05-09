@@ -1,4 +1,4 @@
-Como um não usuário
+Como um não usuário,
 Para que eu tenha o primeiro acesso,
 Eu quero um sistema de cadastro do usuário.
  
