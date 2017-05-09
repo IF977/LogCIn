@@ -1,4 +1,4 @@
-Resumo do que funcionou e do que não funcionou durante a iteração, e planos para melhorar o que não funcionou
+﻿Resumo do que funcionou e do que não funcionou durante a iteração, e planos para melhorar o que não funcionou
 a) Período: data de início - data de término da iteração
 b) O que estava planejado?
 - atividades e pra quem
