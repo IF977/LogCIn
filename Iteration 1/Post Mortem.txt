@@ -1,11 +1,41 @@
 ﻿Resumo do que funcionou e do que não funcionou durante a iteração, e planos para melhorar o que não funcionou
-a) Período: data de início - data de término da iteração
+
+a) Período: data de início - data de término da iteração 0
+   03/05/2017 a 14/05/2017
+
 b) O que estava planejado?
+
 - atividades e pra quem
+  Histórias do usuário da iteração 0 (Gerson)
+  Postmortem iteração 0 (Djailson)
+  Início do desenvolvimento
+  Deploy + 2 HU's; Postmortem da iteração 1 (Todos)
+
+
 c) O que foi feito?
+
 - atividades e por quem
+  
+  Histórias do usuário da iteração 0 (Gerson)
+  Postmortem iteração 0 (Djailson)
+  Início do desenvolvimento ( Todos)
+  Deploy + 2 HU's; Postmortem da iteração 1 (Todos)
+
+
 d) O que não foi feito?
-- atividades e por quem, quais os impedimentos
+
+ 
 e) O que está planejado para a próxima iteração?
+
 - atividades e pra quem
+  Continuação do desenvolvimento
+  Criação de testes; Postmortem da iteração 2
+
 f) Lições aprendidas (Post Mortem / Rationale)
+
+  Conhecimento de framework Rails
+  Melhoria no entendimento da arquitetura MVC
+
+   
+ 
+
