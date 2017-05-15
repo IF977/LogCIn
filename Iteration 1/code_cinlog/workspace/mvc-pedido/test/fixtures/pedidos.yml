@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Numero: 1
+  Data-Pedido: 2017-05-14
+  Material: MyString
+  Quantidade: 1
+
+two:
+  Numero: 1
+  Data-Pedido: 2017-05-14
+  Material: MyString
+  Quantidade: 1
