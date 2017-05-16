@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :usuarios
+  resources :pedidos
   resources :produtos
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
@@ -54,5 +56,7 @@ Rails.application.routes.draw do
   #     # (app/controllers/admin/products_controller.rb)
   #     resources :products
   #   end
-  root to: redirect('/produtos')
+  #root to: redirect('/produtos')
+  root to: redirect('/pedidos')
+  #root to: redirect('/usuarios')
 end
