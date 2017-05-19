@@ -1,12 +1,13 @@
+require 'cucumber/rails'
+
 Given(/^I am on the home page$/) do
   '/'
 end
 
 When(/^I press login button$/) do
-  visit (root_path)
-  Click_button('Login')
+  '\Pedido'
 end
 
 Then(/^I should be on the Login Page$/) do
-  '/sign_in_login'
+  expect(Page).to have_content('Listing Pedidos')
 end
