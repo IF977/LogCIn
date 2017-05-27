@@ -7,8 +7,9 @@ b) O que estava planejado?
 
 - atividades e pra quem
   
-Desenvolvimento do projeto (Djailson e Gerson)
-Criação de testes;Postmortem da iteração 2 (Elther e Djailson)
+  Desenvolvimento do projeto (Djailson e Gerson)
+  Criação de testes ( Elther)
+  Postmortem da iteração 2 (Djailson)
 
 
 c) O que foi feito?
