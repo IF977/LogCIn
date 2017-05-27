@@ -20,8 +20,6 @@ Início da Iteração | Término da iteração
 ### O que não foi feito
 * Conclusão dos testes por falta de experiência
 
-> **Nota:** Levante o que não foi realizado e o seu respectivo impedimento.
-
 ### Planejado para próxima iteração
 *  Continuação do desenvolvimento.
 *  Criação de testes; Modelo ER; PostMortem da iteração 3
