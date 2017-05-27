@@ -7,7 +7,7 @@ Início da Iteração | Término da iteração
 | Atividade | Atribuição |
 | --- | --- |
 | Desenvolvimento do projeto | `Djailson`, `Gerson` |
-| Criação de testes | 'Elther' |
+| Criação de testes | `Elther` |
 | Postmortem da iteração | `Djailson` |
 
 ### O que foi feito
