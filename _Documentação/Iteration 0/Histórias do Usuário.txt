@@ -1,11 +1,11 @@
-Como um usu�rio do sistema,
-Para que eu possa acessar o sistema com seguran�a,
-Eu quero uma tela de permiss�o com senha.
+﻿Como um usuário,
+Eu gostaria de acessar o sistema por meio de uma tela segura,
+para que eu tenha acesso ao sistema.
  
-Como um usu�rio do sistema,
-Para que eu possa cadastrar meus produtos,
-Eu quero um recurso que permita cadastrar produtos ao estoque.
+Como um usuário do sistema,
+Eu gostaria de  um recurso de cadastramento,
+para que eu possa cadastrar os produtos no sistema.
  
-Como um usu�rio do sistema,
-Para que  eu movimente meu estoque de maneira segura e precisa,
-Eu quero um sistema que me forne�a a entrada e sa�da de materiais.
+Como um usuário do sistema,
+Eu gostaria de  movimentar meu estoque de maneira eficiente,
+Para que eu possa atender as demandas diárias.
