@@ -1,6 +1,6 @@
 ﻿Como um usuário,
 Eu gostaria de acessar o sistema por meio de uma tela segura,
-para que eu tenha acesso ao sistema.
+para proteger o meu estoque de pessoas não autorizadas.
  
 Como um usuário do sistema,
 Eu gostaria de  um recurso de cadastramento,
