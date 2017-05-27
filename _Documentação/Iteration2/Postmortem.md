@@ -7,15 +7,15 @@ Início da Iteração | Término da iteração
 | Atividade | Atribuição |
 | --- | --- |
 | Desenvolvimento do projeto | `Djailson`, `Gerson` |
-|Criação de testes | `Helter'|
+|Criação de testes | `Helter' |
 |Postmortem da iteração | `Djailson` |
 
 ### O que foi feito
 | Atividade | Atribuição |
 | --- | --- |
 | Desenvolvimento do sistema  | `Djailson`, `Gerson` |
-| Postmortem iteração 2  | `Djailson`|
-|Testes TDD e BDD  | `Elther`|
+| Postmortem iteração 2  | `Djailson` |
+|Testes TDD e BDD  | `Elther` |
 
 ### O que não foi feito
 * Conclusão dos testes por falta de experiência
