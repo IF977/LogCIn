@@ -30,7 +30,9 @@ e) O que está planejado para a próxima iteração?
 - atividades e pra quem
   
   Continuação do desenvolvimento (Todos)
-  Criação de testes; Modelo ER; PostMortem da iteração 3 (Elther)
+  Criação de testes
+  Modelo ER
+  PostMortem da iteração 3 (Elther)
 
 f) Lições aprendidas (Post Mortem / Rationale)
 
