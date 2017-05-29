@@ -1,8 +1,7 @@
-Como um não usuário,
-Para que eu tenha o primeiro acesso,
-Eu quero um sistema de cadastro do usuário.
+Como um usuï¿½rio,
+Eu gostaria de autorizar outras pessoas,
+para ter acesso operacional ao sistema.
  
-Como um usuário do sistema,
-para que eu possa verificar se um material está disponível,
-Eu quero um recurso que realiza uma busca com palavras-chaves.
- 
+Como um usuï¿½rio do sistema,
+Eu gostaria de verificar a disponibilidade de um material com rapidez,
+Para tornar minhas tarefas mais ï¿½geis.
