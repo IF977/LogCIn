@@ -1,6 +1,6 @@
 Início da Iteração | Término da iteração
 ------------ | -------------
-14/05/2017 | 24/05/2017
+31/05/2017 | 07/06/2017
 
 
 ### O que estava planejado
@@ -15,18 +15,18 @@ Início da Iteração | Término da iteração
 | --- | --- |
 | Desenvolvimento do sistema  | `Djailson`, `Gerson` |
 | Postmortem  | `Djailson` |
-| Testes TDD e BDD  | `Elther` |
+| Deploy com Heroku  | `Djailson` |
 
 ### O que não foi feito
-* Conclusão dos testes por falta de experiência
+*   A ser relatado
 
 ### Planejado para próxima iteração
-*  Continuação do desenvolvimento.
+*  finalização do desenvolvimento.
 *  Criação de testes
-*  Modelo ER
-* PostMortem da iteração 3
+*  Postmortem  
 
 ### Lições aprendidas
-* Uso das ferramentas de testes.
+* deploy no Heroku
+* 
 
 
