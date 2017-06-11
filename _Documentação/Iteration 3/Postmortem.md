@@ -6,18 +6,18 @@ Início da Iteração | Término da iteração
 ### O que estava planejado
 | Atividade | Atribuição |
 | --- | --- |
-| Desenvolvimento do projeto | `Djailson`, `Gerson` |
+| Desenvolvimento do projeto | `Djailson`, `Elther` |
 | Criação de testes | `Elther` |
-| Modelo ER
+| Modelo ER | `Gerson` |
 | Postmortem da iteração | `Djailson` |
 
 
 ### O que foi feito
 | Atividade | Atribuição |
 | --- | --- |
-| Desenvolvimento do sistema  | `Djailson`, `Gerson` |
-| Modelo ER | `Djailson` |
-| Deploy com Heroku  | `Djailson` |
+| Desenvolvimento do sistema  | `Djailson`, `Elther` |
+| Modelo ER | `Djailson`, `Gerson` |
+| Deploy com Heroku  | `Djailson`, | `Elther` |
 | Postmortem  | `Djailson` |
 
 
