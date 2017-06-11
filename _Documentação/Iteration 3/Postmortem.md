@@ -8,19 +8,23 @@ Início da Iteração | Término da iteração
 | --- | --- |
 | Desenvolvimento do projeto | `Djailson`, `Gerson` |
 | Criação de testes | `Elther` |
+| Modelo ER
 | Postmortem da iteração | `Djailson` |
+
 
 ### O que foi feito
 | Atividade | Atribuição |
 | --- | --- |
 | Desenvolvimento do sistema  | `Djailson`, `Gerson` |
-| Postmortem  | `Djailson` |
+| Modelo ER | `Djailson` |
 | Deploy com Heroku  | `Djailson` |
+| Postmortem  | `Djailson` |
+
 
 ### O que não foi feito
-*   A ser relatado
+*   Testes
 
-### Planejado para próxima iteração
+### Planejado para próxima iteração 
 *  finalização do desenvolvimento.
 *  Criação de testes
 *  Postmortem  
