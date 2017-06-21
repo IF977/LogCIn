@@ -8,7 +8,7 @@ Início da Iteração | Término da iteração
 | --- | --- |
 | Desenvolvimento do projeto | `Djailson`, `Elther` |
 | Criação de testes | `Elther` |
-|  Postmortem da iteração | `Djailson` |
+| Postmortem da iteração | `Djailson` |
 
 
 ### O que foi feito
